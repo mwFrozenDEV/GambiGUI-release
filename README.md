@@ -4,11 +4,13 @@
 
 # GambiGUI: RedM Graphics Config Generator  
 
-GAMBIGUI is a powerful application designed for **RedM** players to easily create and manage multiple graphics configurations. It allows users to perform advanced settings tweaks that aren't normally possible, such as:  
+GambiGUI is a powerful application designed for **RedM** players to easily create and manage multiple graphics configurations. It allows users to perform advanced settings tweaks that aren't normally possible, such as:  
 - Disabling fog.  
 - Opening and closing the map instantly, without animations.  
 
 Built with **C#** with a **WinForms** frontend, GambiGUI is your ultimate hub for RedM PvP. 
+
+**To stay up to date, join the [Discord!](https://discord.com/invite/Pa4kh3VxFc)**
 
 ---
 
