@@ -67,7 +67,7 @@ See `LICENSE` for details.
 ---
 
 ## **History**  
-GAMBIGUI's journey began with a simple problem:  
+The journey began with a simple problem:  
 - I had two graphics configurations, one for RP and one for RP, and wanted to switch between them quickly.  
 - To solve this, I created a basic **batch file** to handle the swap.  
 
