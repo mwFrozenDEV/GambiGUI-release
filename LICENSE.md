@@ -10,6 +10,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ## Attribution
 - Any use, modification, or distribution of the Software must include proper attribution to the original author.
 
+## Distribution Restriction
+The Software may only be downloaded or obtained directly from the official GitHub repository of the author. Redistribution of the Software, in any form, through other platforms, websites, or channels is strictly prohibited.
+
 ## No Warranty
 The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the author or copyright holder be liable for any claim, damages, or other liability arising from or in connection with the Software.
 
