@@ -12,6 +12,8 @@ Built with **C#** with a **WinForms** frontend, GambiGUI is your ultimate hub fo
 
 **To stay up to date, join the [Discord!](https://discord.com/invite/Pa4kh3VxFc)**
 
+### [**Watch the YouTube Preview for GambiGUI**](https://www.youtube.com/watch?v=zIZaRcSdAl4)
+
 ---
 
 ## **Features**  
